@@ -1,0 +1,38 @@
+/*
+availability element extends the full width of the card, dark grey background and yellow text.*/
+
+.cards {
+	width: 30%;
+    float: left;
+    margin: 10px;
+    border: 1px solid lightblue;
+}
+
+img {
+    height: 17em;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    border: 1px dotted lightgray;
+}
+
+.description {
+	text-align: justify;
+	margin: .1em;
+}
+
+.bolder {
+	font-weight: bold;
+}
+
+.availability {
+	color: yellow;
+    background: darkgrey;
+    font-weight: bold;
+}
