@@ -2,7 +2,7 @@
 availability element extends the full width of the card, dark grey background and yellow text.*/
 
 .cards {
-	width: 30%;
+    width: 30%;
     float: left;
     margin: 10px;
     border: 1px solid lightblue;
@@ -23,16 +23,16 @@ h2 {
 }
 
 .description {
-	text-align: justify;
-	margin: .1em;
+    text-align: justify;
+    margin: .1em;
 }
 
-.bolder {
-	font-weight: bold;
+.bolder {	
+    font-weight: bold;
 }
 
 .availability {
-	color: yellow;
+    color: yellow;
     background: darkgrey;
     font-weight: bold;
 }
